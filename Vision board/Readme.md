@@ -75,4 +75,5 @@ The Vision Planner is a web-based tool that allows users to:
 - Build a fully interactive vision planner
 - Learn dynamic DOM manipulation with JS
 - Practice drag-and-drop and canvas interactions
+
 - Develop a print/export-friendly web application
